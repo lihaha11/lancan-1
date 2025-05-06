@@ -52,10 +52,10 @@ social:
 # Image Settings
 # --------------------------------------
 
-favicon: https://pic.lancan.xyz/logo/logo.png
+favicon: /img/logo_logo.png
 
 avatar:
-  img: https://pic.lancan.xyz/logo/logo.png
+  img: /img/logo_logo.png
   effect: false
 
 # Disable all banner images
