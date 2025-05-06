@@ -38,7 +38,7 @@ code_blocks:
   copy: true
   language: true
   # true: shrink the code blocks | false: expand the code blocks | none: expand code blocks and hide the button
-  shrink: false
+  shrink: true
   fullpage: false
 
 # Social media links
@@ -52,10 +52,10 @@ social:
 # Image Settings
 # --------------------------------------
 
-favicon: /img/favicon.png
+favicon: https://pic.lancan.xyz/logo/logo.png
 
 avatar:
-  img: /img/butterfly-icon.png
+  img: https://pic.lancan.xyz/logo/logo.png
   effect: false
 
 # Disable all banner images
