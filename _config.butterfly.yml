@@ -62,7 +62,7 @@ avatar:
 disable_top_img: false
 
 # If the banner of page not setting, it will show the default_top_img
-default_top_img:
+default_top_img: http://pic.lancan.xyz/logo/Image_6910555545853.jpg
 
 # The banner image of index page
 index_img:
